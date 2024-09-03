@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning on Deep Learning concepts <br>I'm working on a project with title "Feedback Mechanism for public speaking using llms on speech and body language"<br>
+I'm currently pursuing my BE in Artificial Intelligence & Machine Learning.<br>I'm working on a project with title "Feedback Mechanism for public speaking using llms on speech and body language"<br>
 
 
 ## 🌐 Socials:
